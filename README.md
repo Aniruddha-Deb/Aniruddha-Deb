@@ -18,8 +18,8 @@ I can't pin more than a handful of repos, so here's a compilation of some handy 
 
 That's about it, I guess. There's a lot of other fun snippets or projects that I'm up to or have done previously, skim through my github to find out ;) Do check out [my blog](https://aniruddhadeb.com) for more cool stuff. Thanks for reading this far!
 
-⚡ Fun fact:
-I really like fun facts. If you've got any, hit me up on discord at `Sensei#5200`
+#### ⚡ Fun fact:
+I really like quizzing, random trivia and fun facts. If you've got any, hit me up on discord at `Sensei#5200`
 
 <!--
 **Aniruddha-Deb/Aniruddha-Deb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
