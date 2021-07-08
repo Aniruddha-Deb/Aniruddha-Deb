@@ -19,6 +19,8 @@ I can't pin more than a handful of repos, so here's a compilation of some handy 
 That's about it, I guess. There's a lot of other fun snippets or projects that I'm up to or have done previously, skim through my github to find out ;) Do check out [my blog](https://aniruddhadeb.com) for more cool stuff. Thanks for reading this far!
 
 #### ⚡ Fun fact:
+Cleopatra lived closer to the release of the first iPhone than she did to the building of the pyramids of Giza.
+
 I really like quizzing, random trivia and fun facts. If you've got any, hit me up on discord at `Sensei#5200`
 
 <!--
