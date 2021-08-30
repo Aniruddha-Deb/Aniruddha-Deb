@@ -15,7 +15,9 @@ I can't pin more than a handful of repos, so here's a compilation of some handy 
 4. [Moodle Captcha Solver](https://github.com/Aniruddha-Deb/MoodleCaptchaSolver) - This is a captcha solver for moodle. Can be modified into an autologin with an extra line of code
 5. [fplay](https://github.com/Aniruddha-Deb/fplay) - A small C program that prints the binary/hex representation of floats and how they're stored
 6. [COL100](https://github.com/Aniruddha-Deb/COL100) - All my course programs for the COL100 course (Batch B '20-21 took it in C, not SML/Python)
-7. [Talk on Cellular Automata and Conway's Game of Life](https://github.com/Aniruddha-Deb/automata-talk) - Might be helpful, was discussed in COL100 class
+7. [COL202](https://github.com/Aniruddha-Deb/COL202) - Some resources and scripts that I write for COL202
+8. [JavaMake](https://github.com/Aniruddha-Deb/JavaMake) - rudimentary make based build system for Java
+9. [Talk on Cellular Automata and Conway's Game of Life](https://github.com/Aniruddha-Deb/automata-talk) - Might be helpful, was discussed in COL100 class
 
 That's about it, I guess. There's a lot of other fun snippets or projects that I'm up to or have done previously, skim through my github to find out ;) Do check out [my blog](https://aniruddhadeb.com) for more cool stuff. Thanks for reading this far!
 
@@ -23,18 +25,3 @@ That's about it, I guess. There's a lot of other fun snippets or projects that I
 Cleopatra lived closer to the release of the first iPhone than she did to the building of the pyramids of Giza.
 
 I really like quizzing, random trivia and fun facts. If you've got any, hit me up on discord at `Sensei#5200`
-
-<!--
-**Aniruddha-Deb/Aniruddha-Deb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
