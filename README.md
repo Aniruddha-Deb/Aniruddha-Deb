@@ -1,6 +1,6 @@
 ## Hi!
 
-I can't pin more than a handful of repos, so here's a compilation of some handy repos :P
+I can't pin more than a handful of repos, so here's a compilation of some handy repositories
 
 #### Some of my projects:
 1. [Rubik's Cube](https://github.com/Aniruddha-Deb/RubiksCube) and [ErnoBot](https://github.com/Aniruddha-Deb/ErnoBot) - A distributed quizzing platform created for QC IITD's first league quiz for 2021-22. 
