@@ -2,22 +2,31 @@
 
 I can't pin more than a handful of repos, so here's a compilation of some handy repos :P
 
-#### Some of my projects (currently deployed):
-1. [Math Solver](https://apps.aniruddhadeb.com/MathSolver) - a CNN that solves handwritten math expressions ([repo](https://github.com/Aniruddha-Deb/MathSolver))
-2. [IIT Dep Finder](https://apps.aniruddhadeb.com/IIT_dep_finder) - a tool to help find the department for you, post JEE ([repo](https://github.com/Aniruddha-Deb/IIT_dep_finder))
-3. [EasyCalc](https://play.google.com/store/apps/details?id=com.sensei.easycalc&hl=en&gl=US) - A simple calculator, with hidden support for hindi numerals :) ([repo](https://github.com/Aniruddha-Deb/EasyCalc-android))
-4. [Nuke](https://github.com/Aniruddha-Deb/nuke) - A simple discord bot that archives and nukes chats from a server (online 24x7, contact me if you want to add it to your server)
+#### Some of my projects:
+1. [Rubik's Cube](https://github.com/Aniruddha-Deb/RubiksCube) and [ErnoBot](https://github.com/Aniruddha-Deb/ErnoBot) - A distributed quizzing platform created for QC IITD's first league quiz for 2021-22. 
+2. [Math Solver](https://github.com/Aniruddha-Deb/MathSolver) - a CNN that solves handwritten math expressions
+3. [PyGameOfLife](https://github.com/Aniruddha-Deb/PyGameOfLife) - Python implementation of Game of Life
+4. [IIT Dep Finder](https://github.com/Aniruddha-Deb/IIT_dep_finder) - a tool to help find the department for you, post JEE
+5. [EasyCalc](https://play.google.com/store/apps/details?id=com.sensei.easycalc&hl=en&gl=US) - A simple calculator, with hidden support for hindi numerals :) ([repo](https://github.com/Aniruddha-Deb/EasyCalc-android))
+6. [Nuke](https://github.com/Aniruddha-Deb/nuke) - A simple discord bot that archives and nukes chats from a server
 
 #### If you're from IITD, these repos might be helpful:
 1. [Moodle Sidebar Plugin](https://github.com/Aniruddha-Deb/MoodleSidebarPlugin) - A plugin that changes moodle sidebar content, so it's easier to access current courses
 2. [Impartus Ad Blocker](https://github.com/Aniruddha-Deb/ImpartusAdBlocker) - Blocks impartus ads [after they got acquired by UpGrad](https://www.livemint.com/companies/start-ups/upgrad-acquires-impartus-11621789769549.html)
 3. [Impartus Participant Stats](https://github.com/Aniruddha-Deb/ImpartusParticipantStats) - This shows the number of people sitting in the impartus class with you (so that you can bunk without guilt if needed :P)
 4. [Moodle Captcha Solver](https://github.com/Aniruddha-Deb/MoodleCaptchaSolver) - This is a captcha solver for moodle. Can be modified into an autologin with an extra line of code
-5. [fplay](https://github.com/Aniruddha-Deb/fplay) - A small C program that prints the binary/hex representation of floats and how they're stored
-6. [COL100](https://github.com/Aniruddha-Deb/COL100) - All my course programs for the COL100 course (Batch B '20-21 took it in C, not SML/Python)
-7. [COL202](https://github.com/Aniruddha-Deb/COL202) - Some resources and scripts that I write for COL202
-8. [JavaMake](https://github.com/Aniruddha-Deb/JavaMake) - rudimentary make based build system for Java
-9. [Talk on Cellular Automata and Conway's Game of Life](https://github.com/Aniruddha-Deb/automata-talk) - Might be helpful, was discussed in COL100 class
+
+#### Some Course Repositories:
+1. [fplay](https://github.com/Aniruddha-Deb/fplay) - A small C program that prints the binary/hex representation of floats and how they're stored
+2. [COL100](https://github.com/Aniruddha-Deb/COL100) - All my course programs for the COL100 course (Batch B '20-21 took it in C, not SML/Python)
+3. [COL202](https://github.com/Aniruddha-Deb/COL202) - Some resources and scripts that I write for COL202
+4. [COL215](https://github.com/Aniruddha-Deb/COL215) - LogiSim models and VHDL scripts for digital systems, done in COL215 
+5. [COL106](https://github.com/Aniruddha-Deb/COL106) - Assignments, Labs, Project and some personal PoC/PoI programs for COL106
+  5.1. [JavaMake](https://github.com/Aniruddha-Deb/JavaMake) - Rudimentary make based build system for Java
+
+#### Talks:
+6. [Talk on Cellular Automata and Conway's Game of Life](https://github.com/Aniruddha-Deb/automata-talk) - Might be helpful, was discussed in COL100 class
+7. [Back to Normal](https://github.com/Aniruddha-Deb/back_to_normal) - A Talk on Normal, Chi Square and T distributions
 
 That's about it, I guess. There's a lot of other fun snippets or projects that I'm up to or have done previously, skim through my github to find out ;) Do check out [my blog](https://aniruddhadeb.com) for more cool stuff. Thanks for reading this far!
 
