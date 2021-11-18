@@ -22,7 +22,7 @@ I can't pin more than a handful of repos, so here's a compilation of some handy 
 3. [COL202](https://github.com/Aniruddha-Deb/COL202) - Some resources and scripts that I write for COL202
 4. [COL215](https://github.com/Aniruddha-Deb/COL215) - LogiSim models and VHDL scripts for digital systems, done in COL215 
 5. [COL106](https://github.com/Aniruddha-Deb/COL106) - Assignments, Labs, Project and some personal PoC/PoI programs for COL106
-  5.1. [JavaMake](https://github.com/Aniruddha-Deb/JavaMake) - Rudimentary make based build system for Java
+    5.1. [JavaMake](https://github.com/Aniruddha-Deb/JavaMake) - Rudimentary make based build system for Java
 
 #### Talks:
 6. [Talk on Cellular Automata and Conway's Game of Life](https://github.com/Aniruddha-Deb/automata-talk) - Might be helpful, was discussed in COL100 class
