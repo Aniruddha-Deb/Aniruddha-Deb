@@ -21,7 +21,7 @@ I can't pin more than a handful of repos, so here's a compilation of some handy 
 2. [COL100](https://github.com/Aniruddha-Deb/COL100) - All my course programs for the COL100 course (Batch B '20-21 took it in C, not SML/Python)
 3. [COL202](https://github.com/Aniruddha-Deb/COL202) - Some resources and scripts that I write for COL202
 4. [COL215](https://github.com/Aniruddha-Deb/COL215) - LogiSim models and VHDL scripts for digital systems, done in COL215 
-5. [COL106](https://github.com/Aniruddha-Deb/COL106) - Assignments, Labs, Project and some personal PoC/PoI programs for COL106
+5. ~~[COL106](https://github.com/Aniruddha-Deb/COL106) - Assignments, Labs, Project and some personal PoC/PoI programs for COL106~~ Taken down on request.
 6. [JavaMake](https://github.com/Aniruddha-Deb/JavaMake) - Rudimentary make based build system for Java
 
 #### Talks:
