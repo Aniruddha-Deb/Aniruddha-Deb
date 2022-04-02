@@ -17,10 +17,11 @@ I can't pin more than a handful of repos, so here's a compilation of some handy 
 4. [Moodle Captcha Solver](https://github.com/Aniruddha-Deb/MoodleCaptchaSolver) - This is a captcha solver for moodle. Can be modified into an autologin with an extra line of code
 
 #### Some Course Repositories:
-1. [fplay](https://github.com/Aniruddha-Deb/fplay) - A small C program that prints the binary/hex representation of floats and how they're stored
-2. [COL100](https://github.com/Aniruddha-Deb/COL100) - All my course programs for the COL100 course (Batch B '20-21 took it in C, not SML/Python)
-3. [COL202](https://github.com/Aniruddha-Deb/COL202) - Some resources and scripts that I write for COL202
-4. [COL215](https://github.com/Aniruddha-Deb/COL215) - LogiSim models and VHDL scripts for digital systems, done in COL215 
+1. [Steganography](https://github.com/Aniruddha-Deb/Steganography) - LSB image steganography (encoding/decoding) with encryption. ELL205 course project.
+1. [COL215](https://github.com/Aniruddha-Deb/COL215) - LogiSim models and VHDL scripts for digital systems, done in COL215 
+2. [COL202](https://github.com/Aniruddha-Deb/COL202) - Some resources and scripts that I write for COL202
+3. [fplay](https://github.com/Aniruddha-Deb/fplay) - A small C program that prints the binary/hex representation of floats and how they're stored
+4. [COL100](https://github.com/Aniruddha-Deb/COL100) - All my course programs for the COL100 course (Batch B '20-21 took it in C, not SML/Python)
 5. ~~[COL106](https://github.com/Aniruddha-Deb/COL106) - Assignments, Labs, Project and some personal PoC/PoI programs for COL106~~ Taken down on request.
 6. [JavaMake](https://github.com/Aniruddha-Deb/JavaMake) - Rudimentary make based build system for Java
 
