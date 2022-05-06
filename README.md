@@ -18,20 +18,17 @@ I can't pin more than a handful of repos, so here's a compilation of some handy 
 
 #### Some Course Repositories:
 1. [Steganography](https://github.com/Aniruddha-Deb/Steganography) - LSB image steganography (encoding/decoding) with encryption. ELL205 course project.
-1. [COL215](https://github.com/Aniruddha-Deb/COL215) - LogiSim models and VHDL scripts for digital systems, done in COL215 
-2. [COL202](https://github.com/Aniruddha-Deb/COL202) - Some resources and scripts that I write for COL202
-3. [fplay](https://github.com/Aniruddha-Deb/fplay) - A small C program that prints the binary/hex representation of floats and how they're stored
-4. [COL100](https://github.com/Aniruddha-Deb/COL100) - All my course programs for the COL100 course (Batch B '20-21 took it in C, not SML/Python)
-5. ~~[COL106](https://github.com/Aniruddha-Deb/COL106) - Assignments, Labs, Project and some personal PoC/PoI programs for COL106~~ Taken down on request.
-6. [JavaMake](https://github.com/Aniruddha-Deb/JavaMake) - Rudimentary make based build system for Java
+2. [COL216](https://github.com/Aniruddha-Deb/COL216) - Computer Architecture programs/assignments (Merge Sort + CPU)
+3. [COL226](https://github.com/Aniruddha-Deb/COL216) - Programming Languages assignments (WHILE compiler frontend + Stack machine)
+4. [COL215](https://github.com/Aniruddha-Deb/COL215) - LogiSim models and VHDL scripts for digital systems, done in COL215 
+5. [COL202](https://github.com/Aniruddha-Deb/COL202) - Discrete math homework + utilities
+6. [fplay](https://github.com/Aniruddha-Deb/fplay) - A small C program that prints the binary/hex representation of floats and how they're stored
+7. [COL100](https://github.com/Aniruddha-Deb/COL100) - All my course programs for the COL100 course (Batch B '20-21 took it in C, not SML/Python)
+8. ~~[COL106](https://github.com/Aniruddha-Deb/COL106) - Assignments, Labs, Project and some personal PoC/PoI programs for COL106~~ Taken down on request.
+9. [JavaMake](https://github.com/Aniruddha-Deb/JavaMake) - Rudimentary make based build system for Java
 
 #### Talks:
-7. [Talk on Cellular Automata and Conway's Game of Life](https://github.com/Aniruddha-Deb/automata-talk) - Might be helpful, was discussed in COL100 class
-8. [Back to Normal](https://github.com/Aniruddha-Deb/back_to_normal) - A Talk on Normal, Chi Square and T distributions
+1. [Talk on Cellular Automata and Conway's Game of Life](https://github.com/Aniruddha-Deb/automata-talk) - Might be helpful, was discussed in COL100 class
+2. [Back to Normal](https://github.com/Aniruddha-Deb/back_to_normal) - A Talk on Normal, Chi Square and T distributions
 
 That's about it, I guess. There's a lot of other fun snippets or projects that I'm up to or have done previously, skim through my github to find out ;) Do check out [my blog](https://aniruddhadeb.com) for more cool stuff. Thanks for reading this far!
-
-#### ⚡ Fun fact:
-Cleopatra lived closer to the release of the first iPhone than she did to the building of the pyramids of Giza.
-
-I really like quizzing, random trivia and fun facts. If you've got any, hit me up on discord at `Sensei#5200`
