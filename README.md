@@ -21,11 +21,12 @@ I can't pin more than a handful of repos, so here's a compilation of some handy 
 2. [COL216](https://github.com/Aniruddha-Deb/COL216) - Computer Architecture programs/assignments (Merge Sort + CPU)
 3. [COL226](https://github.com/Aniruddha-Deb/COL216) - Programming Languages assignments (WHILE compiler frontend + Stack machine)
 4. [COL215](https://github.com/Aniruddha-Deb/COL215) - LogiSim models and VHDL scripts for digital systems, done in COL215 
-5. [COL202](https://github.com/Aniruddha-Deb/COL202) - Discrete math homework + utilities
-6. [fplay](https://github.com/Aniruddha-Deb/fplay) - A small C program that prints the binary/hex representation of floats and how they're stored
-7. [COL100](https://github.com/Aniruddha-Deb/COL100) - All my course programs for the COL100 course (Batch B '20-21 took it in C, not SML/Python)
-8. ~~[COL106](https://github.com/Aniruddha-Deb/COL106) - Assignments, Labs, Project and some personal PoC/PoI programs for COL106~~ Taken down on request.
-9. [JavaMake](https://github.com/Aniruddha-Deb/JavaMake) - Rudimentary make based build system for Java
+5. [COP290](https://github.com/Aniruddha-Deb/COP290) - an IITD Maze Game, made using SDL2
+6. [COL202](https://github.com/Aniruddha-Deb/COL202) - Discrete math homework + utilities
+7. [fplay](https://github.com/Aniruddha-Deb/fplay) - A small C program that prints the binary/hex representation of floats and how they're stored
+8. [COL100](https://github.com/Aniruddha-Deb/COL100) - All my course programs for the COL100 course (Batch B '20-21 took it in C, not SML/Python)
+9. ~~[COL106](https://github.com/Aniruddha-Deb/COL106) - Assignments, Labs, Project and some personal PoC/PoI programs for COL106~~ Taken down on request.
+10. [JavaMake](https://github.com/Aniruddha-Deb/JavaMake) - Rudimentary make based build system for Java
 
 #### Talks:
 1. [Talk on Cellular Automata and Conway's Game of Life](https://github.com/Aniruddha-Deb/automata-talk) - Might be helpful, was discussed in COL100 class
